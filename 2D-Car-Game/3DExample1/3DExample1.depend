@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1506335452 source:e:\3dexample1\tutorial1.cpp
+	"include\freeglut.h"
+	<iostream>
+
+1472813598 e:\3dexample1\include\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1472813598 e:\3dexample1\include\freeglut_std.h
+	<Windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1472813598 e:\3dexample1\include\freeglut_ext.h
+

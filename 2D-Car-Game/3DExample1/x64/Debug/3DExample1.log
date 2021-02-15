@@ -1,0 +1,41 @@
+﻿  Tutorial1.cpp
+E:\3DExample1\Tutorial1.cpp(166,16): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(171,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(176,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(180,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(182,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\3DExample1\Tutorial1.cpp(183,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\3DExample1\Tutorial1.cpp(204,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(210,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(219,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(221,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\3DExample1\Tutorial1.cpp(222,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\3DExample1\Tutorial1.cpp(242,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(252,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(256,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(260,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\3DExample1\Tutorial1.cpp(261,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\3DExample1\Tutorial1.cpp(279,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(284,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(289,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(293,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(297,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\3DExample1\Tutorial1.cpp(298,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\3DExample1\Tutorial1.cpp(316,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(317,16): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(320,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\3DExample1\Tutorial1.cpp(321,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\3DExample1\Tutorial1.cpp(334,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(335,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(338,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\3DExample1\Tutorial1.cpp(339,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\3DExample1\Tutorial1.cpp(379,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\3DExample1\Tutorial1.cpp(475,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(475,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(476,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(476,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(477,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(477,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(478,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\3DExample1\Tutorial1.cpp(478,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  3DExample1.vcxproj -> E:\3DExample1\x64\Debug\3DExample1.exe
