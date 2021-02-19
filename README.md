@@ -8,5 +8,5 @@ The game is developed using very simple programming methodologies with the usage
 - Maximum score is 50.
 
 ### How to run the game 
-- Go to the directory=>3DExample1\x64\Debug
+- Go to the directory=>x64\Debug
 - Then run 3DExample1.exe
